@@ -1,6 +1,7 @@
 # leetcode-1672_richest-customer-wealth
 
-1672. Richest Customer Wealth
+LeetCode Problem: 1672<br/>
+Richest Customer Wealth<br/>
 Easy
 
 You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the ith customer has in the jth bank. Return the wealth that the richest customer has.
