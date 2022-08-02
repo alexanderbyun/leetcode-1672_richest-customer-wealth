@@ -7,7 +7,7 @@ You are given an m x n integer grid accounts where accounts[i][j] is the amount 
 
 A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
 
- 
+<br/>
 
 Example 1:
 
@@ -23,10 +23,13 @@ Both customers are considered the richest with a wealth of 6 each, so return 6.<
 Example 2:<br/>
 
 Input: accounts = [[1,5],[7,3],[3,5]]<br/>
-Output: 10<br/><br/>
-Explanation: <br/>
+Output: 10<br/>
+
+<br/>
+
+Explanation:<br/>
 1st customer has wealth = 6<br/>
-2nd customer has wealth = 10 <br/>
+2nd customer has wealth = 10<br/>
 3rd customer has wealth = 8<br/>
 The 2nd customer is the richest with a wealth of 10.<br/>
 
