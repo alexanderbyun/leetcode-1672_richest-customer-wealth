@@ -11,7 +11,7 @@ A customer's wealth is the amount of money they have in all their bank accounts.
 
 Example 1:
 
-Input: accounts = [[1,2,3],[3,2,1]]
+Input: accounts = [[1,2,3],[3,2,1]]<br/>
 Output: 6
 Explanation:
 1st customer has wealth = 1 + 2 + 3 = 6
